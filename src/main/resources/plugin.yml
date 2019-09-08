@@ -1,0 +1,7 @@
+name: Main
+version: ${project.version}
+main: network.zentry.Main
+authors: [WksS]
+description: Plugin of punishs.
+commands:
+  punir:

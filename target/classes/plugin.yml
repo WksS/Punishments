@@ -1,0 +1,7 @@
+name: Main
+version: 1.0-SNAPSHOT
+main: network.zentry.Main
+authors: [WksS]
+description: Plugin of punishs.
+commands:
+  punir:

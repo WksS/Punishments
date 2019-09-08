@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZentryPunish">
+    <output-path>$USER_HOME$/Desktop/Todos os servidores/Servidor do Teste/plugins</output-path>
+    <root id="archive" name="ZentryPunish.jar">
+      <element id="module-output" name="ZentryPunish" />
+    </root>
+  </artifact>
+</component>
